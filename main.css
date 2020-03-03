@@ -46,4 +46,7 @@ a:focus, a:hover {
 	font-style: italic;
 }
 
+.shadow {
+	text-shadow: #800000;
+}
 
