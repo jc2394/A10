@@ -1,16 +1,34 @@
-/* the styles for the elements */
+html {background-color: white;}
 body {
 	font-family: Arial, Helvetica, sans-serif;
     	font-size: 100%;
 }
-/* the styles for the header */
+
+
+main {
+	clear: left;
+}
+
+
 header img {
 	float: left;
 }
-main {clear: left;}
 
-footer p {text-align: center;}
-
-.speakers{
-	font-style: italic;
+header h2 {
+	font-size: 170%;
+	color: #800000;
 }
+
+header h3{
+	font-size: 130%;
+	font-sstyle: italic;
+	text-indent: 30px; 
+}
+
+footer p {
+	text-align: center;
+}
+
+
+
+
